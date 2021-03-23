@@ -1,0 +1,20 @@
+{
+  "balance": [
+    {
+      "name": "testName",
+      "description": "",
+      "date": "dateTime",
+      "amount": 5,
+      "paid": false,
+      "id": 1
+    },
+    {
+      "name": "testName1",
+      "description": "",
+      "date": "dateTime1",
+      "amount": 5,
+      "paid": false,
+      "id": 2
+    }
+  ]
+}
